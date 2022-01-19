@@ -38,6 +38,7 @@ const Center = styled.div`
 `;
 const Logo = styled.h1`
     font-wight: bold;
+    text-transform: uppercase;
 `;
 const Right = styled.div`
     flex: 1;
