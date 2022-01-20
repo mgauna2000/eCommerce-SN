@@ -4,7 +4,7 @@ const Container = styled.div`
     position: relative;
     flex: 1;
     margin: 3px;
-    height: 70vh;
+    height: 55vh;
 `;
 const Image = styled.img`
     width: 100%;
@@ -20,10 +20,10 @@ const Info = styled.div`
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
 `;
 const Title = styled.h1`
-    color: white;
+    color: black;
     margin-bottom: 20px;
 `;
 const Button = styled.button`
