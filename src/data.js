@@ -1,14 +1,14 @@
 export const sliderItems = [
     {
         id: 1,
-        img: "https://images-na.ssl-images-amazon.com/images/I/91Fy3s2KyBL.jpg",
+        img: "https://http2.mlstatic.com/D_NQ_NP_746797-MLA46526260507_062021-O.webp",
         title: "Manga SNK",
         desc: "Historia donde cuenta como Eren da vergazos a mucha gente",
         bg: "f5fafd",
     },
     {
         id: 2,
-        img: "https://www.ubuy.om/productimg/?image=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9JLzUxSUtLUXlmYmxMLl9TUzQwMF8uanBn.jpg",
+        img: "https://http2.mlstatic.com/D_NQ_NP_988424-MLA46526341782_062021-O.jpg",
         title: "Tokio Ghoul",
         desc: "Historia donde Kaneki folla con Touka-chan al final",
         bg: "f5fafd",
