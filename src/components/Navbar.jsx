@@ -63,7 +63,7 @@ function Navbar() {
                        <Search style={{color:"gray", fontSize:16}} />
                    </SearchContainer>
                </Left>
-               <Center><Logo>Hades</Logo></Center>
+               <Center><Logo>Amigueros</Logo></Center>
                <Right>
                    <MenuItem>Registrarse</MenuItem>
                    <MenuItem>Iniciar Sesion</MenuItem>
