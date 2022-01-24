@@ -34,25 +34,25 @@ const ProductList = () => {
     <Container>
       <Navbar />
       <Announcement />
-      <Title>Dresses</Title>
+      <Title>Remeras</Title>
       <FilterContainer>
         <Filter>
-          <FilterText>Filter Products:</FilterText>
+          <FilterText>Filtrar productos:</FilterText>
 
           <Select>
             <Option disabled selected>
               Color
             </Option>
-            <Option>White</Option>
-            <Option>Black</Option>
-            <Option>Red</Option>
-            <Option>Blue</Option>
-            <Option>Yellow</Option>
-            <Option>Green</Option>
+            <Option>Blanco</Option>
+            <Option>Nergo</Option>
+            <Option>Rojo</Option>
+            <Option>Azul</Option>
+            <Option>Amarrilo</Option>
+            <Option>Verde</Option>
           </Select>
           <Select>
             <Option disabled selected>
-              Size
+              Talle
             </Option>
             <Option>XS</Option>
             <Option>S</Option>
@@ -63,11 +63,11 @@ const ProductList = () => {
           </Select>
         </Filter>
         <Filter>
-          <FilterText>Sort Products:</FilterText>
+          <FilterText>Orden de los productos:</FilterText>
           <Select>
-            <Option selected>Newest</Option>
-            <Option>Price (asc)</Option>
-            <Option>Price (desc)</Option>
+            <Option selected>La mas nueva</Option>
+            <Option>Precio (menor)</Option>
+            <Option>Precio (mayor)</Option>
           </Select>
         </Filter>
       </FilterContainer>
