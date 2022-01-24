@@ -87,7 +87,7 @@ import {
     return (
       <Container>
         <Left>
-          <Logo>LAMA.</Logo>
+          <Logo>AMIGUEROS</Logo>
           <Desc>
             There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered alteration in some form, by injected
@@ -109,7 +109,7 @@ import {
           </SocialContainer>
         </Left>
         <Center>
-          <Title>Useful Links</Title>
+          <Title>Enlaces útiles</Title>
           <List>
             <ListItem>Home</ListItem>
             <ListItem>Cart</ListItem>
@@ -124,7 +124,7 @@ import {
           </List>
         </Center>
         <Right>
-          <Title>Contact</Title>
+          <Title>Contacto</Title>
           <ContactItem>
             <Room style={{marginRight:"10px"}}/> 622 Dixie Path , South Tobinchester 98336
           </ContactItem>
