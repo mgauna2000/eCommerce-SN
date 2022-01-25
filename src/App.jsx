@@ -1,6 +1,6 @@
 // import Home from "./pages/Home"
 
-import Product from "./components/Product";
+import Product from "./pages/Product";
 
 const App = () => {
   return <Product />
