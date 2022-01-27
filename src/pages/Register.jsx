@@ -60,12 +60,12 @@ const Register = () => {
       <Wrapper>
         <Title>CREA TU CUENTA</Title>
         <Form>
-          <Input placeholder="Nombre" />
-          <Input placeholder="Apellido" />
-          <Input placeholder="Usuario" />
-          <Input placeholder="Email" />
-          <Input placeholder="Contraseña" />
-          <Input placeholder="Confirmar contraseña" />
+          <Input placeholder="Nom bre" />
+          <Input placeholder="Ap ellido" />
+          <Input placeholder="Us uario" />
+          <Input placeholder="Ema il" />
+          <Input placeholder="Contr aseña" />
+          <Input placeholder="Conf i rmar contraseña" />
           <Agreement>
           Al crear una cuenta, doy mi consentimiento para el procesamiento de mis datos personales.
           datos de acuerdo con la <b>POLÍTICA DE PRIVACIDAD</b>
