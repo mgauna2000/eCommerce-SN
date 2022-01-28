@@ -33,11 +33,11 @@ export const categories = [
       img: "https://http2.mlstatic.com/D_NQ_NP_945126-MLA44333496705_122020-W.jpg",
       title: "CUADRO DE AKATSUKI!",
     },
-    // {
-    //   id: 3,
-    //   img: "https://http2.mlstatic.com/D_NQ_NP_988198-MLA42390602066_062020-O.jpg",
-    //   title: "LIGHT JACKETS",
-    // },
+    {
+      id: 3,
+      img: "https://http2.mlstatic.com/D_NQ_NP_959702-MLA44268540233_122020-O.jpg",
+      title: "CUADRO DE NARUTO!",
+    },
   ];
   export const popularProducts = [
     {

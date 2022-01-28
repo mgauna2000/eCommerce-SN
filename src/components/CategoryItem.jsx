@@ -5,13 +5,13 @@ const Container = styled.div`
     position: relative;
     flex: 1;
     margin: 3px;
-    height: 55vh;
+    height: 40vh;
 `;
 const Image = styled.img`
     width: 100%;
     height: 100%;
     object-fit: cover;
-    ${mobile({ height: "20vh" })}
+    ${mobile({ height: "36vh" })}
 `;
 const Info = styled.div`
     position: absolute;
@@ -23,10 +23,12 @@ const Info = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
+    ${mobile({ justifyContent: "flex-end" })}
 `;
 const Title = styled.h1`
     color: black;
     margin-bottom: 20px;
+    ${mobile({ fontSize: "25px", color: "white", backgroundColor: "black", borderRadius: "10px" })}
 `;
 const Button = styled.button`
     border: none;
