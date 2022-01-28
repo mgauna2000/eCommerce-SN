@@ -20,6 +20,7 @@ const Left = styled.div`
     flex: 1;
     display: flex;
     align-items: center;
+    ${mobile({ display: "none" })}
 `;
 const Language = styled.span`
     font-size: 14px;
